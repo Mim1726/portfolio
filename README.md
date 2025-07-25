@@ -73,6 +73,7 @@ portfolio/
 ├── index.html          # Main HTML file
 ├── style.css           # CSS styles and responsive design
 ├── script.js           # JavaScript functionality
+├── profile-picture.jpg # Your profile picture (add your own)
 └── README.md           # Project documentation
 ```
 
