@@ -33,18 +33,37 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ## 🛠 Technologies Used
 
-### Frontend
+### Programming Languages
+- **Java** - Object-oriented programming
+- **Python** - Data science and web development
+- **C/C++** - System programming and algorithms
+- **JavaScript** - Frontend and backend development
+
+### Frontend Technologies
 - **HTML5** - Semantic markup structure
 - **CSS3** - Modern styling with Flexbox/Grid
-- **JavaScript (ES6+)** - Interactive functionality
-- **Font Awesome** - Professional icons
-- **Google Fonts** - Inter font family
+- **React** - Modern JavaScript framework
+- **Flutter** - Cross-platform mobile development
+
+### Backend Technologies
+- **Node.js** - JavaScript runtime for server-side development
+
+### Database Technologies
+- **MongoDB** - NoSQL database
+- **MySQL** - Relational database
+- **PostgreSQL** - Advanced relational database
+- **Firebase/Firestore** - Cloud database solutions
+
+### Cloud & Infrastructure
+- **AWS** - Amazon Web Services cloud platform
 
 ### Libraries & Tools
 - CSS Grid & Flexbox for layouts
 - CSS animations and transitions
 - Intersection Observer API for scroll animations
 - Form validation with vanilla JavaScript
+- Font Awesome icons
+- Google Fonts
 
 ## 📁 Project Structure
 
@@ -138,6 +157,8 @@ surge
 
 - **Name:** Suraya Jannat Mim
 - **Email:** mimrobo1726@gmail.com
+- **Phone:** +880 1776792494
+- **Location:** Dhaka, Bangladesh
 - **LinkedIn:** [suraya-jannat-mim-992ab3327](https://www.linkedin.com/in/suraya-jannat-mim-992ab3327/)
 - **GitHub:** [Mim1726](https://github.com/Mim1726)
 - **Facebook:** [suraya.jannat.mim.2024](https://www.facebook.com/suraya.jannat.mim.2024)
